@@ -1,0 +1,9 @@
+#jquery-ui-draggable {
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+    margin: 0;
+    border-radius: 120px;
+    font-size: 13px;
+    background: #ff0000;
+}
